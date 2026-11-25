@@ -48,3 +48,9 @@ A computer science student who dreams of becoming a full time game developer!
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/julia-de-melopes)
 [![Itch.io](https://img.shields.io/badge/itch.io-%23FF0B34.svg?logo=Itch.io&logoColor=white)](https://marshee-melo.itch.io)
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?&logo=discord&logoColor=white)](https://discord.com/users/695681273494110319)
+
+
+  
+![snake gif](https://github.com/Marsheemelo/Marsheemelo/blob/output/github-snake-dark.svg)
+
+
