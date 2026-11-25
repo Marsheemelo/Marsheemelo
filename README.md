@@ -1,5 +1,6 @@
 ## Hello!! I'm Júlia de Melo :D
 <!-- gif tchauzinho aqui -->
+![](gif_tchauzinho.gif)
 <!---
 - falar que sou estudante de cc que quer ser game dev
 (gif do nerd)
@@ -13,7 +14,7 @@
 --->
 A computer science student who dreams of becoming a full time game developer!
 ## What I know:
-<!-- gif do nerd aqui -->
+![](gif_nerd.gif)
 ### Programming languages:
 [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
 [![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)](#)
@@ -41,7 +42,7 @@ A computer science student who dreams of becoming a full time game developer!
 [![Slack](https://img.shields.io/badge/Slack-4A154B?logo=slack&logoColor=fff)](#)
 
 ## Let's chat!
-<!-- gif da amizade -->
+![](gif_amizade.gif)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:5995.juliademelo@gmail.com)
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/julia-de-melopes)
 [![Itch.io](https://img.shields.io/badge/itch.io-%23FF0B34.svg?logo=Itch.io&logoColor=white)](https://marshee-melo.itch.io)
