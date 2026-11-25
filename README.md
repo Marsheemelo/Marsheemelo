@@ -40,8 +40,6 @@ A computer science student who dreams of becoming a full time game developer!
 </tr>
 </table>
 
-<br clear="left"/>
-
 ## Let's chat!
 <img src="gif_amizade.gif" width="400"/>
 <br>
